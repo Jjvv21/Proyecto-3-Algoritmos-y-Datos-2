@@ -1,0 +1,4 @@
+/home/diabloget/CLionProjects/TECFS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/diabloget/CLionProjects/TECFS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/diabloget/CLionProjects/TECFS/cmake-build-debug/CMakeFiles/TECFS.dir
+/home/diabloget/CLionProjects/TECFS/cmake-build-debug/CMakeFiles/TECFS_autogen.dir
